@@ -1,2 +1,4 @@
 data/
-trino/data/
+trino/data/trino/*
+trino/metastore/*
+superset/*.db
